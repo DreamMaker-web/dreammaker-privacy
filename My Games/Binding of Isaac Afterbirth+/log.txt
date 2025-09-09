@@ -1,0 +1,2815 @@
+[INFO] - timeBeginPeriod( 1 )
+[INFO] - OpenGL version 4.6.0 NVIDIA 419.35
+[INFO] - GLSL version 4.60 NVIDIA
+[INFO] - Framebuffer ID: 1
+[INFO] - Renderbuffer ID: 1 size 1024x1024
+[INFO] - Running Lua Script: resources/scripts/enums.lua
+[INFO] - Lua mem usage: 423 KB and 782 bytes
+[INFO] - Running Lua Script: resources/scripts/main.lua
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Binding of Isaac: Afterbirth+ v1.06.0190
+[INFO] - Initialize ColorOffset Shader
+[INFO] - Initialize Pixelation Shader
+[INFO] - Initialize Bloom Shader
+[INFO] - Initialize Color Correction Shader
+[INFO] - Initialize HQ4X Shader
+[INFO] - Initialize Shockwave Shader
+[INFO] - Initialize OldTV Shader
+[INFO] - Initialize Water Surface Shader
+[INFO] - Initialize Hallucination Shader
+[INFO] - load archives: 3437 milliseconds
+[INFO] - preload anm2: 96 milliseconds
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - HQX4 size: 480x270
+[INFO] - playing cutscene 1 (Intro).
+[INFO] - Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 0.500000 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 0.444444 
+ DP per point: 1.000000 
+ Point Scale: 2.250000 
+[INFO] - HQX4 size: 960x540
+[INFO] - Viewport: 960x540
+[INFO] - Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 2.250010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - HQX4 size: 960x540
+[INFO] - Menu Manager preCrossfade
+[INFO] - Pre music queue
+[INFO] - Post music queue
+[INFO] - Menu Manager Init
+[INFO] - Menu Title Init
+[INFO] - Menu Save Init
+[INFO] - Menu_Save Pre Prompt init
+[INFO] - Menu_Save loading slot drawings
+[INFO] - Menu Save Reset
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - SteamCloud could not find or open abp_gamestate1.dat. No Game State detected.
+[INFO] - SteamCloud could not find or open rerunstate1.dat. No Rerun State detected.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 2 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: abp_persistentgamedata2.dat.
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Loading GameState 2 from SteamCloud!
+[INFO] - SteamCloud could not find or open abp_gamestate2.dat. No Game State detected.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 3 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: abp_persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open abp_persistentgamedata3.dat.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Trying to import AB steam save.
+[INFO] - SteamCloud could not find or open AB save file ab_persistentgamedata3.dat.
+[INFO] - Starting with a clean save state.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Cannot load GameState if PersistentData is missing!
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Menu Game Init
+[INFO] - Menu Dailt Init
+[INFO] - Menu Character Init
+[INFO] - Menu SpecialSeed Init
+[INFO] - Menu Challenge Init
+[INFO] - Menu Collection Init
+[INFO] - Menu Stats Init
+[INFO] - Menu Mods Init
+[INFO] - Menu Options Init
+[INFO] - Menu Controller Init
+[INFO] - Menu Key Config Init
+[INFO] - Menu Cutscene Init
+[INFO] - Menu Bestiary Init
+[INFO] - Menu Custom Challenge Init
+[INFO] - Queued Path music/afterbirth/regenesis (loop) v3.ogg
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - SteamCloud could not find or open abp_gamestate1.dat. No Game State detected.
+[INFO] - SteamCloud could not find or open rerunstate1.dat. No Rerun State detected.
+[INFO] - Lua is resetting!
+[INFO] - Running Lua Script: resources/scripts/enums.lua
+[INFO] - Lua mem usage: 423 KB and 782 bytes
+[INFO] - Running Lua Script: resources/scripts/main.lua
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - SteamCloud could not find or open abp_gamestate1.dat. No Game State detected.
+[INFO] - SteamCloud could not find or open rerunstate1.dat. No Rerun State detected.
+[INFO] - Pre music queue
+[INFO] - Post music queue
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - RNG Start Seed: GAZY Y0C4 (1069823397)
+[INFO] - Initialized player with Variant 0 and Subtype 0
+[INFO] - Level::Init m_Stage 1, m_StageType 2 Seed 917185851
+[INFO] - Curse of Blind
+[INFO] - [RoomConfig] load stage 3: Burning Basement
+[INFO] - allocate 973 rooms.
+[INFO] - [RoomConfig] load stage 0: Special Rooms
+[INFO] - allocate 906 rooms.
+[INFO] - generate...
+[INFO] - place_room: shape 6
+[INFO] - place_room: shape 4
+[INFO] - 10 rooms in 7 loops
+[INFO] - not enough dead ends, trying to make new one
+[INFO] - placing rooms...
+[INFO] - [RoomConfig] load stage 13: ???
+[INFO] - allocate 6 rooms.
+[INFO] - Map Generated in 1 Loops
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 591179140
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Adding collectible 105 (The D6)
+[INFO] - Saving PersistentGameData to Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - music stopped playing
+[INFO] - Queued Path music/afterbirth/burning basement guitar layer_04.ogg
+[INFO] - Queued Path music/afterbirth/burning basement loop.ogg
+[INFO] - Viewport: 1920x1200
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 960 
+ Window Width: 1920 
+ Multiplier: 4.800010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - HQX4 size: 960x600
+[INFO] - Action PillCard Triggered
+[INFO] - Total entity spawn time: 25 ms
+[INFO] - Total ANM2 loading time: 147 ms
+[INFO] - AnmCache memory usage: 15022120 bytes in 1124 entries.
+[INFO] - Viewport: 960x540
+[INFO] - Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 2.250010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - HQX4 size: 960x540
+[INFO] - Viewport: 1920x1200
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 960 
+ Window Width: 1920 
+ Multiplier: 4.800010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - HQX4 size: 960x600
+[INFO] - Action PillCard Triggered
+[INFO] - Action PillCard Triggered
+[INFO] - Action PillCard Triggered
+[INFO] - Room 1.644(New Room (copy))
+[INFO] - SpawnRNG seed: 3302492158
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(120.00,200.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(80.00,360.00)
+[INFO] - Spawn Entity with Type(208), Variant(0), Pos(520.00,360.00)
+[INFO] - Spawn Entity with Type(10), Variant(1), Pos(560.00,360.00)
+[INFO] - Spawn Entity with Type(10), Variant(0), Pos(520.00,400.00)
+[INFO] - Spawn Entity with Type(284), Variant(0), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Saving PersistentGameData to Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - Room 1.556(New Room)
+[INFO] - SpawnRNG seed: 858811683
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(120.00,160.00)
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(160.00,160.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(320.00,160.00)
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(480.00,160.00)
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(160.00,400.00)
+[INFO] - Spawn Entity with Type(33), Variant(1), Pos(200.00,400.00)
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(480.00,400.00)
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Game Over. Killed by (9.0) spawned by (244.0) damage flags (0)
+[INFO] - Saving PersistentGameData to Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - CPU time spent on enemy queries: 0.03 seconds.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - RNG Start Seed: 401Q 8WZQ (3661729975)
+[INFO] - Initialized player with Variant 0 and Subtype 0
+[INFO] - Level::Init m_Stage 1, m_StageType 1 Seed 3652753112
+[INFO] - [RoomConfig] load stage 2: Cellar
+[INFO] - allocate 973 rooms.
+[INFO] - generate...
+[INFO] - place_room: shape 12
+[INFO] - place_room: shape 12
+[INFO] - 11 rooms in 7 loops
+[INFO] - placing rooms...
+[INFO] - Map Generated in 1 Loops
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 889318529
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Pre music queue
+[INFO] - Post music queue
+[INFO] - Adding collectible 105 (The D6)
+[INFO] - Saving PersistentGameData to Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - Room 1.275(New Room)
+[INFO] - SpawnRNG seed: 1857915141
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(120.00,160.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(520.00,160.00)
+[INFO] - Spawn Entity with Type(240), Variant(0), Pos(160.00,400.00)
+[INFO] - Spawn Entity with Type(240), Variant(0), Pos(480.00,400.00)
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 1.222(New Room)
+[INFO] - SpawnRNG seed: 3294042019
+[INFO] - Spawn Entity with Type(250), Variant(0), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(250), Variant(0), Pos(360.00,280.00)
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Queued Path music/the cellar layer.ogg
+[INFO] - Queued Path music/the cellar alt.ogg
+[INFO] - Saving PersistentGameData to Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - Room 1.157()
+[INFO] - SpawnRNG seed: 190690437
+[INFO] - Spawn Entity with Type(29), Variant(1), Pos(320.00,240.00)
+[INFO] - Spawn Entity with Type(29), Variant(1), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(5), Variant(60), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(29), Variant(1), Pos(360.00,280.00)
+[INFO] - Spawn Entity with Type(29), Variant(1), Pos(320.00,320.00)
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Action PillCard Triggered
+[INFO] - Saving PersistentGameData to Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - Room 1.289(New Room)
+[INFO] - SpawnRNG seed: 3187591407
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(80.00,360.00)
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(200.00,360.00)
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(440.00,360.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(560.00,360.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(320.00,400.00)
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 1.740(New Room)
+[INFO] - SpawnRNG seed: 1833448207
+[INFO] - Spawn Entity with Type(88), Variant(2), Pos(440.00,280.00)
+[INFO] - Spawn Entity with Type(88), Variant(1), Pos(520.00,280.00)
+[INFO] - Spawn Entity with Type(88), Variant(2), Pos(600.00,280.00)
+[INFO] - Spawn Entity with Type(88), Variant(2), Pos(320.00,360.00)
+[INFO] - Spawn Entity with Type(88), Variant(2), Pos(320.00,440.00)
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Saving PersistentGameData to Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - Room 1.289(New Room)
+[INFO] - SpawnRNG seed: 3187591407
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 1.157()
+[INFO] - SpawnRNG seed: 190690437
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 1.938(New Room (copy))
+[INFO] - SpawnRNG seed: 518096582
+[INFO] - Spawn Entity with Type(302), Variant(0), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(208), Variant(0), Pos(80.00,200.00)
+[INFO] - Spawn Entity with Type(208), Variant(0), Pos(120.00,240.00)
+[INFO] - Spawn Entity with Type(302), Variant(0), Pos(360.00,280.00)
+[INFO] - Spawn Entity with Type(208), Variant(0), Pos(120.00,320.00)
+[INFO] - Spawn Entity with Type(208), Variant(0), Pos(80.00,360.00)
+[INFO] - Spawn Entity with Type(302), Variant(0), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - [warn] no animation named Head
+[INFO] - Room 1.157()
+[INFO] - SpawnRNG seed: 190690437
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 1.222(New Room)
+[INFO] - SpawnRNG seed: 3294042019
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 1.275(New Room)
+[INFO] - SpawnRNG seed: 1857915141
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 4.1()
+[INFO] - SpawnRNG seed: 1432460586
+[INFO] - Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Pre music queue
+[INFO] - Post music queue
+[INFO] - item taken without exchange
+[INFO] - item queue flush
+[INFO] - Adding collectible 161 (Ankh)
+[INFO] - music stopped playing
+[INFO] - Saving PersistentGameData to Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - Room 1.275(New Room)
+[INFO] - SpawnRNG seed: 1857915141
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 889318529
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 10.6( (copy))
+[INFO] - SpawnRNG seed: 2176881984
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(320.00,240.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(240.00,280.00)
+[INFO] - Spawn Entity with Type(94), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(400.00,280.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(320.00,320.00)
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Queued Path music/the cellar layer.ogg
+[INFO] - Queued Path music/the cellar alt.ogg
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 889318529
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 10.6( (copy))
+[INFO] - SpawnRNG seed: 2176881984
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(320.00,240.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(240.00,280.00)
+[INFO] - Spawn Entity with Type(94), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(400.00,280.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(320.00,320.00)
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 889318529
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 1.275(New Room)
+[INFO] - SpawnRNG seed: 1857915141
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 1.222(New Room)
+[INFO] - SpawnRNG seed: 3294042019
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 1.157()
+[INFO] - SpawnRNG seed: 190690437
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 1.289(New Room)
+[INFO] - SpawnRNG seed: 3187591407
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 1.740(New Room)
+[INFO] - SpawnRNG seed: 1833448207
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 5.2014(The Duke of Flies (copy))
+[INFO] - SpawnRNG seed: 770596473
+[INFO] - Spawn Entity with Type(18), Variant(0), Pos(240.00,280.00)
+[INFO] - Spawn Entity with Type(67), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(18), Variant(0), Pos(400.00,280.00)
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Pre music queue
+[INFO] - Post music queue
+[INFO] - Game Over. Killed by (18.0) spawned by (0.0) damage flags (0)
+[INFO] - Saving PersistentGameData to Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - CPU time spent on enemy queries: 0.07 seconds.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - RNG Start Seed: T7WF AAJ8 (2156605436)
+[INFO] - Initialized player with Variant 0 and Subtype 0
+[INFO] - Level::Init m_Stage 1, m_StageType 0 Seed 37290755
+[INFO] - Curse of the Labyrinth!
+[INFO] - [RoomConfig] load stage 1: Basement
+[INFO] - allocate 973 rooms.
+[INFO] - generate...
+[INFO] - place_room: shape 2
+[INFO] - place_room: shape 12
+[INFO] - 17 rooms in 10 loops
+[INFO] - placing rooms...
+[INFO] - place_room: shape 6
+[INFO] - Map Generated in 1 Loops
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 299771133
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Pre music queue
+[INFO] - Post music queue
+[INFO] - Adding collectible 105 (The D6)
+[INFO] - Saving PersistentGameData to Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - Room 1.954(New Room (copy))
+[INFO] - SpawnRNG seed: 2848231832
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Queued Path music/diptera layer.ogg
+[INFO] - Queued Path music/diptera sonata(basement).ogg
+[INFO] - Saving PersistentGameData to Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - Room 1.259(New Room)
+[INFO] - SpawnRNG seed: 3006480927
+[INFO] - Spawn Entity with Type(205), Variant(0), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Saving PersistentGameData to Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - Room 1.277(New Room)
+[INFO] - SpawnRNG seed: 817907079
+[INFO] - Spawn Entity with Type(13), Variant(0), Pos(280.00,240.00)
+[INFO] - Spawn Entity with Type(13), Variant(0), Pos(360.00,240.00)
+[INFO] - Spawn Entity with Type(13), Variant(0), Pos(280.00,320.00)
+[INFO] - Spawn Entity with Type(13), Variant(0), Pos(360.00,320.00)
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Game Over. Killed by (4.3) spawned by (0.0) damage flags (4)
+[INFO] - Saving PersistentGameData to Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - CPU time spent on enemy queries: 0.07 seconds.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - RNG Start Seed: TZLV GXP3 (2193280176)
+[INFO] - Initialized player with Variant 0 and Subtype 0
+[INFO] - Level::Init m_Stage 1, m_StageType 1 Seed 3234867170
+[INFO] - Curse of the Labyrinth!
+[INFO] - generate...
+[INFO] - place_room: shape 11
+[INFO] - place_room: shape 8
+[INFO] - place_room: shape 10
+[INFO] - place_room: shape 2
+[INFO] - place_room: shape 2
+[INFO] - place_room: shape 2
+[INFO] - 17 rooms in 13 loops
+[INFO] - not enough dead ends, trying to make new one
+[INFO] - not enough dead ends (5/6)
+[INFO] - generate...
+[INFO] - place_room: shape 6
+[INFO] - place_room: shape 11
+[INFO] - place_room: shape 12
+[INFO] - place_room: shape 11
+[INFO] - place_room: shape 8
+[INFO] - 17 rooms in 9 loops
+[INFO] - placing rooms...
+[INFO] - Map Generated in 2 Loops
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 1401443697
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Pre music queue
+[INFO] - Post music queue
+[INFO] - Adding collectible 105 (The D6)
+[INFO] - Saving PersistentGameData to Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - Room 1.616(New Room (copy))
+[INFO] - SpawnRNG seed: 3107501929
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(240.00,160.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(280.00,160.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(320.00,160.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(360.00,160.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(400.00,160.00)
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 1401443697
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Room 1.221(New Room)
+[INFO] - SpawnRNG seed: 1199547217
+[INFO] - Spawn Entity with Type(250), Variant(0), Pos(200.00,240.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(250), Variant(0), Pos(440.00,320.00)
+[INFO] - Lua mem usage: 426 KB and 77 bytes
+[INFO] - Queued Path music/the cellar layer.ogg
+[INFO] - Queued Path music/the cellar alt.ogg
+[INFO] - Game Over. Killed by (250.0) spawned by (0.0) damage flags (0)
+[INFO] - Saving PersistentGameData to Steam Cloud: abp_persistentgamedata1.dat.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - CPU time spent on enemy queries: 0.08 seconds.
+[INFO] - CPU time spent on enemy queries: 0.08 seconds.
+[INFO] - delete 906 rooms.
+[INFO] - delete 973 rooms.
+[INFO] - delete 973 rooms.
+[INFO] - delete 973 rooms.
+[INFO] - delete 6 rooms.
