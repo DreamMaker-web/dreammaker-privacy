@@ -1,13 +1,6 @@
-# 개인 파일 및 시스템 파일 제외
-My Music/
-My Pictures/
-My Videos/
-desktop.ini
-Elder Scrolls Online/
-My Games/
-daz_importer_errors.txt
-tatus
+# 모든 파일 제외
+*
 
-# 프로젝트 관련 파일만 포함
-!privacy_policy.md
+# 개인정보처리방침만 포함
+!index.md
 !.gitignore
